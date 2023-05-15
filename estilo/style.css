@@ -99,10 +99,16 @@ section#img01 {
 section#img02 {
     background-image: url(../imagens/background002.jpg);
     
-
+}
 footer {
     background-color: black;
     text-align: center;
     padding: 10;
     color: white;
 }
+
+footer a {
+    padding-left: 3px;
+    padding-right: 3px;
+}
+
